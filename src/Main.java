@@ -18,6 +18,9 @@ public class Main {
         System.out.println("7. GIT FETCH - RAMAS REMOTAS");
         System.out.println("8. GIT SWITCH -C CREAR Y POSICIONARME SOBRE LA RAMA");
 
+        System.out.println("Oscar Javier Ome Cuellar");
+        System.out.println("Chía - Cundinamarca");
+        System.out.println("Tengo un perro que se llama Maximiliano");
 
  }
 }
