@@ -20,7 +20,7 @@ public class Main {
 
         System.out.println("Oscar Javier Ome Cuellar");
         System.out.println("Chía - Cundinamarca");
-        System.out.println("Tengo un perro que se llama Maximiliano");
+        System.out.println("Tengo un perro que se llama Maximiliano.");
 
  }
 }
